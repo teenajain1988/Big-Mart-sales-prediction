@@ -1,0 +1,1 @@
+pweb:gunicorn main:app
